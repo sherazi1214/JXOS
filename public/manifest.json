@@ -1,0 +1,12 @@
+{
+  "name": "Jasonex OS",
+  "short_name": "Jasonex OS",
+  "description": "Internal Business Operating System for Jasonex Technologies",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" }
+  ]
+}

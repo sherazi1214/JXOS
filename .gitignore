@@ -1,0 +1,25 @@
+# dependencies
+node_modules/
+
+# next.js build output
+.next/
+out/
+build/
+
+# environment variables — NEVER commit real secrets
+.env
+.env.local
+.env.*.local
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# misc
+.DS_Store
+*.log
+npm-debug.log*
+
+# editor
+.vscode/
+.idea/
